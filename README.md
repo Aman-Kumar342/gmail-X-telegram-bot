@@ -51,7 +51,7 @@ Ensure you have <code>google-credentials.json</code> (or have completed the manu
 ### Installation
 
 1. Clone the repository:<br>
-   <code>git clone https://github.com/boxed-dev/Gmail-n-Calendar-Bot.git 
+   <code>git clone https://github.com/Aman-Kumar342/gmail-X-telegram-bot?tab=readme-ov-file
    cd Gmail-n-Calendar-Bot</code>
 2. Install dependencies:<br>
    <code>npm install</code> <b>or</b> <code>pnpm install</code>
